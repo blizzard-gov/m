@@ -82,9 +82,9 @@ Explanation: Implements advanced anti-aliasing techniques to reduce jagged edges
 ### Simultaneous Multi-Threading (AMD Only!)
 Explanation: Utilizes the Simultaneous Multi-Threading technology available on AMD processors to enhance multi-threaded performance, resulting in smoother gameplay on compatible systems.
 
-# Boost Your Fortnite Experience with Advanced Technology
+# Technology Used
 
-Upgrade your Fortnite adventure with the power of Hyper Fortnite Booster. This innovative tool combines the strengths of C++, Python, and C# programming languages to enhance your gaming journey. Let's explore the details:
+Upgrade your Fortnite adventure with the power of Hyper Fortnite Booster. This innovative tool combines the strengths of C++, Python, and C# programming languages to enhance your gaming journey. Let's explore the details
 
 ### C++: Fine-Tuned Control
 
