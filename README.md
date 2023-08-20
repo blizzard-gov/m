@@ -18,3 +18,66 @@ Unlock Your Full Potential Today
 Experience Fortnite like never before with Hyper Fortnite Booster. Elevate your gameplay, eliminate lag, and unleash your true gaming potential. Whether you're competing in intense battles or simply enjoying the beauty of the game world, Hyper Fortnite Booster is your ultimate companion on the road to victory.
 
 Are you ready to take your Fortnite journey to the next level? Embrace the power of Hyper Fortnite Booster and redefine what it means to be a true Fortnite champion. Get ready to conquer the game like never before!
+# Features 
+### Optimize Packet Rate for Smoother Gameplay
+Explanation: Adjusts the rate at which data packets are sent and received, resulting in reduced network congestion and smoother in-game actions.
+
+### Latency Reduction Minimize Network Latency
+Explanation: Implements advanced network protocols to decrease the time it takes for data to travel between your system and the game server, leading to quicker response times.
+
+### Connection Stabilization Improve Stability 2.1
+Explanation: Enhances the consistency and reliability of your internet connection during gameplay, minimizing sudden fluctuations and disconnections.
+
+### V-Sync And Adaptive Sync Improvement
+Explanation: Refines the synchronization between your display and the game's frame output to reduce screen tearing and provide a smoother visual experience.
+
+### Improve Triple Buffering
+Explanation: Enhances the buffering process to minimize frame rate drops, ensuring smoother transitions between frames.
+
+### Utilize SSD Caching for Faster Loading Times
+Explanation: Takes advantage of Solid State Drive (SSD) memory caching to store frequently accessed game data, resulting in faster loading times and improved gameplay fluidity.
+
+### QoS Prioritize Network Traffic for Fortnite
+Explanation: Implements Quality of Service (QoS) techniques to give priority to Fortnite-related network traffic over other data, ensuring minimal delays and interruptions.
+
+### RAM Utilization Kernel Based Overhaul
+Explanation: Optimizes how the game uses your system's Random Access Memory (RAM), leading to more efficient memory allocation and improved overall performance.
+
+### Memory Leak Prevention
+Explanation: Addresses memory leaks that can degrade performance over time, ensuring stable and consistent performance during extended gaming sessions.
+
+### Lag Compensation TCP Speed Increase
+Explanation: Implements lag compensation techniques by optimizing Transmission Control Protocol (TCP) speed, reducing delays in transmitting and receiving data.
+
+### VRAM Usage Monitoring
+Explanation: Monitors the usage of your Video Random Access Memory (VRAM) to ensure efficient allocation, preventing performance bottlenecks due to VRAM limitations.
+
+### Micro-Stutter Reduction 1.2
+Explanation: Mitigates micro-stuttering, providing smoother gameplay by minimizing irregular frame delivery and maintaining consistent visuals.
+
+### Optimize Shader Cache
+Explanation: Optimizes the caching of shaders, which are essential for rendering graphics, resulting in quicker load times and smoother rendering.
+
+### Frame Time Monitoring Analyze Frames
+Explanation: Monitors frame times, allowing you to analyze the performance of individual frames and identify potential issues that may impact gameplay.
+
+### Multi-Core Optimization
+Explanation: Distributes the game's processing load across multiple CPU cores, maximizing the utilization of modern multi-core processors for improved performance.
+
+### Process Prioritization 2.3
+Explanation: Adjusts the priority of the game's processes within your system, ensuring that the game receives the necessary resources for optimal performance.
+
+### Auto Pre-Cache Config
+Explanation: Automatically pre-caches game assets, reducing in-game loading times and providing a smoother gaming experience.
+
+### Thermal Based Resource Distribution
+Explanation: Dynamically allocates system resources based on temperature conditions, preventing performance throttling during intense gaming sessions.
+
+### Auto Shader Cache Cleanup
+Explanation: Automatically manages and cleans up shader cache data, preventing accumulation of unnecessary data and optimizing performance.
+
+### Multi-Sample Anti-Aliasing
+Explanation: Implements advanced anti-aliasing techniques to reduce jagged edges and enhance visual quality, resulting in a smoother and clearer image.
+
+### Simultaneous Multi-Threading (AMD Only!)
+Explanation: Utilizes the Simultaneous Multi-Threading technology available on AMD processors to enhance multi-threaded performance, resulting in smoother gameplay on compatible systems.
