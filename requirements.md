@@ -1,4 +1,3 @@
-Absolutely, here's the revised version in Markdown format:
 
 **Minimum System Requirements (Windows 10 or 11, No Mac Support Yet)**
 
