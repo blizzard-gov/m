@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+  <title>Software Usage Agreement</title>
+  <style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #ffffff;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        line-height: 1.6;
+      }
+  
+      h1 {
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+      }
+  
+      h2 {
+        font-size: 2rem;
+        margin-top: 40px;
+        margin-bottom: 15px;
+      }
+  
+      h3 {
+        font-size: 1.5rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+      }
+  
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 40px;
+    
+      }
+  
+      .contact {
+        margin-top: 30px;
+        text-decoration: none; font-size: small; color: inherit;
+        font-size: 1.2rem;
+      }
+  </style>
+</head>
+<body>
+
+  <h1>Software Usage Agreement</h1>
+  <p>This Software Usage Agreement ("Agreement") is entered into between Snow and Xeros ("We", "Us", "Our", or "Company") and you ("You", "Your", or "User"). By installing, using, or accessing our software ("Software"),<br> you agree to be bound by the terms and conditions outlined in this Agreement.</p>
+
+  <h3>Data Collection and Usage:</h3>
+  <p>We recognize the importance of user privacy and data protection. We collect minimal user data solely for the purpose of tracking usage statistics, analyzing software performance, and assisting in error detection and debugging.<br> Any data collected is anonymized and does not personally identify individual users. This data is employed exclusively to enhance the Software's functionality and improve user experience.</p>
+  
+  <h3>Security and Safety:</h3>
+  <p>Your security is paramount to us. Our Software has been meticulously crafted to provide a secure and safe environment for your usage. We have implemented rigorous security measures to safeguard your data and ensure the integrity of the Software.<br> Nevertheless, it's important to understand that no software is entirely invulnerable to risks. We strongly recommend adhering to best practices for maintaining the security of your system, including keeping your operating system and security software up to date.</p>
+  
+  <h3>Software Reliability:</h3>
+  <p>We are committed to delivering a reliable and high-quality Software experience. However, software complexity can occasionally lead to unexpected errors or bugs. Our team is dedicated to promptly addressing these issues through continuous updates and improvements.<br> You acknowledge that the Software is provided on an "as-is" basis, and while we strive for an exceptional user experience, we do not guarantee uninterrupted or error-free operation.</p>
+  
+  <h3>Limitation of Liability:</h3>
+  <p>It is essential to understand that using any software entails inherent risks. In no event shall Snow and Xeros be liable for any direct, indirect, special, incidental, consequential, or punitive damages arising out of or in connection with the use or performance of the Software. <br> By utilizing the Software, you assume all responsibility for assessing the potential risks and consequences associated with its use.</p>
+  
+  <h3>Indemnification:</h3>
+  <p>You agree to indemnify, defend, and hold harmless Snow and Xeros and its affiliates, officers, employees, and agents from any claims, losses, damages, liabilities, costs, and expenses, including reasonable attorney's fees, <br> arising out of or related to your use of the Software or any violation of this Agreement.</p>
+  
+  <h3>Governing Law:</h3>
+  <p>This Agreement is governed by and construed in accordance with the laws of the jurisdiction in which Snow and Xeros is headquartered, without regard to its conflicts of laws principles.</p>
+  
+  <h3>Modifications:</h3>
+  <p>We reserve the right to update or modify this Agreement at any time. Any changes to this Agreement will be communicated through our website or other appropriate means. Your continued use of the Software after such modifications <br> constitutes your acceptance of the updated terms.</p>
+  <p>Owners And Developers 'Snow, Xeros'</p>
+  <a href="javascript:void(0);" id="downloadPdf">Download as PDF</a>
+  <p class="contact">For any questions or concerns about this Agreement, please contact us at <a href="mailto:hypersoftwaregroup@proton.me">hypersoftwaregroup@proton.me</a>.</p>
+
+
+    
+  </div>
+  <script>
+    const downloadPdfLink = document.getElementById('downloadPdf');
+
+    downloadPdfLink.addEventListener('click', () => {
+      const htmlContent = document.documentElement.outerHTML;
+
+
+      html2pdf().from(htmlContent).save('Software_Usage_Agreement.pdf');
+    });
+  </script>
+</body>
+</html>
