@@ -105,3 +105,10 @@ Hyper Fortnite Booster seamlessly integrates Unreal Engine 5 (UE5), enhancing gr
 ### WinAPIs: System Efficiency
 
 By integrating Windows API functions, we seamlessly optimize your system for a performance boost. This enhancement resonates across your entire gaming setup, creating a smoother overall experience.
+
+# Extra Info
+## Were constantly upgrading our software and we're working on better guis and better perfomance and run time on all systems and more features 
+
+# Contact 
+For any developer quires or questions.
+hypersoftwaregroup@proton.me
