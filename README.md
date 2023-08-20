@@ -134,8 +134,8 @@ Please ensure your hardware meets or surpasses these requirements for the best p
 # Troubleshooting
 ### If you encounter any errors, here are some steps to consider:
 
-####  Turn off your antivirus temporarily and try again.
-####  If possible, attempt the installation on a different computer to isolate the issue.
+#### Turn off your antivirus temporarily and try again.
+#### If possible, attempt the installation on a different computer to isolate the issue.
 #### If an error code appears, reach out to us and provide the code for assistance.
 #### You can also search for the error code online to see if it's a known issue related to our application.
 #### Additional Dependencies: In case of errors, you might want to try these steps:
