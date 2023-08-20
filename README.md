@@ -99,10 +99,6 @@ Python excels in real-time communication, bringing a new dimension to your gamin
 
 C# ensures seamless coordination between display and game output, creating a visually stunning experience. It enhances gameplay with Quality of Service (QoS) techniques, ensuring efficient network performance.
 
-### UE5 Integration: Stunning Visuals
-
-Hyper Fortnite Booster seamlessly integrates Unreal Engine 5 (UE5), enhancing graphics to match your strategic skills. Immerse yourself in breathtaking landscapes that reflect your tactical expertise.
-
 ### WinAPIs: System Efficiency
 
 By integrating Windows API functions, we seamlessly optimize your system for a performance boost. This enhancement resonates across your entire gaming setup, creating a smoother overall experience.
