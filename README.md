@@ -120,6 +120,17 @@ Explanation: By integrating Windows API functions, we seamlessly optimize your s
 ## Ready to Go
 ### When booster.exe is running, you've successfully completed the booster setup. Now, enjoy an enhanced gaming experience!
 
+# Requirements
+
+**Minimum System Requirements (Windows 10 or 11, No Mac Support Yet)**
+
+- **Video Card**: Intel HD 4000 Or AMD Radeon Vega 8
+- **Processor**: Core i3-3225 3.3 GHz or equivalent
+- **Memory**: 8 GB RAM
+- **Operating System**: Windows 10 64-bit (Upgradeable to Windows 11)
+
+Please ensure your hardware meets or surpasses these requirements for the best performance.
+
 # Contact 
 ## For any developer quires or questions.
 ## hypersoftwaregroup@proton.me
