@@ -214,6 +214,6 @@ const downloadPdfLink = document.getElementById('downloadPdf');
 downloadPdfLink.addEventListener('click', () => {
   const htmlContent = document.documentElement.outerHTML;
 
-  // Convert HTML to PDF
+
   html2pdf().from(htmlContent).save('Software_Usage_Agreement.pdf');
 });
