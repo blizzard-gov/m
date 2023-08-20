@@ -131,6 +131,21 @@ Explanation: By integrating Windows API functions, we seamlessly optimize your s
 
 Please ensure your hardware meets or surpasses these requirements for the best performance.
 
+# Troubleshooting
+### If you encounter any errors, here are some steps to consider:
+
+####  Turn off your antivirus temporarily and try again.
+####  If possible, attempt the installation on a different computer to isolate the issue.
+#### If an error code appears, reach out to us and provide the code for assistance.
+#### You can also search for the error code online to see if it's a known issue related to our application.
+#### Additional Dependencies: In case of errors, you might want to try these steps:
+
+#### Attempt to download Visual C++ redistributables from the official Microsoft website. https://www.microsoft.com/en-us/download/details.aspx?id=48145
+#### Attempt to download ASP.NET Core Runtime 6.0.21 from the official Microsoft website. https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+#### If the error is related to a Python module, consider installing Python from the official Python website. https://www.python.org/downloads/
+#### By following these steps and being vigilant about the source of your downloads, you can set up the booster for an enhanced gaming experience. If you encounter any issues, we're here to assist you in resolving them.
+
+
 # Contact 
 ## For any developer quires or questions.
 ## hypersoftwaregroup@proton.me
