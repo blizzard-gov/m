@@ -121,6 +121,6 @@ Explanation: By integrating Windows API functions, we seamlessly optimize your s
 ### When booster.exe is running, you've successfully completed the booster setup. Now, enjoy an enhanced gaming experience!
 
 # Contact 
-For any developer quires or questions.
-hypersoftwaregroup@proton.me
+## For any developer quires or questions.
+## hypersoftwaregroup@proton.me
 
