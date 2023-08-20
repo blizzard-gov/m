@@ -20,6 +20,7 @@ Experience Fortnite like never before with Hyper Fortnite Booster. Elevate your 
 
 Are you ready to take your Fortnite journey to the next level? Embrace the power of Hyper Fortnite Booster and redefine what it means to be a true Fortnite champion. Get ready to conquer the game like never before!
 # Features 
+
 ### Optimize Packet Rate for Smoother Gameplay
 Explanation: Adjusts the rate at which data packets are sent and received, resulting in reduced network congestion and smoother in-game actions.
 
@@ -89,19 +90,19 @@ Upgrade your Fortnite adventure with the power of Hyper Fortnite Booster. This i
 
 ### C++: Fine-Tuned Control
 
-C++ takes charge of essential aspects, providing meticulous control over the game's core elements. It improves connections, optimizes memory usage, and prevents memory issues. This results in smoother gameplay without interruptions.
+Explanation: C++ takes charge of essential aspects, providing meticulous control over the game's core elements. It improves connections, optimizes memory usage, and prevents memory issues. This results in smoother gameplay without interruptions.
 
 ### Python: Real-Time Excellence
 
-Python excels in real-time communication, bringing a new dimension to your gaming experience. It optimizes data transmission, reduces lag, and uses SSD caching for faster loading times.
+Explanation: Python excels in real-time communication, bringing a new dimension to your gaming experience. It optimizes data transmission, reduces lag, and uses SSD caching for faster loading times.
 
 ### C#: Masterful Coordination
 
-C# ensures seamless coordination between display and game output, creating a visually stunning experience. It enhances gameplay with Quality of Service (QoS) techniques, ensuring efficient network performance.
+Explanation: C# ensures seamless coordination between display and game output, creating a visually stunning experience. It enhances gameplay with Quality of Service (QoS) techniques, ensuring efficient network performance.
 
 ### WinAPIs: System Efficiency
 
-By integrating Windows API functions, we seamlessly optimize your system for a performance boost. This enhancement resonates across your entire gaming setup, creating a smoother overall experience.
+Explanation: By integrating Windows API functions, we seamlessly optimize your system for a performance boost. This enhancement resonates across your entire gaming setup, creating a smoother overall experience.
 
 # Extra Info
 ## Were constantly upgrading our software and we're working on better guis and better perfomance and run time on all systems and more features 
