@@ -1,0 +1,252 @@
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+  font-size: large;
+}
+
+.top-navbar {
+  background-color: #000;
+  color: #0f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+
+.hero {
+  background-color: #000;
+  color: #0f0;
+  text-align: center;
+  padding: 4rem 0;
+}
+.softwareterms {
+font-size: medium;
+}
+
+
+.download-button {
+  background-color: #0f0;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
+
+.feature-section {
+  background-color: #000000;
+  color: #0f0;
+  flex: 1;
+  padding: 4rem 0;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+.feature-columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1600px;
+  width: 100%;
+  margin-top: 20px; 
+}
+
+.feature {
+  flex: 0 0 calc(33.33% - 20px); 
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #0f0;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.feature-button {
+  background-color: #0f0;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border: none;
+  width: 400px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#feature-list {
+  display: none;
+}
+
+#feature-list.visible {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1600px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #000;
+  color: #0f0;
+  height: 125px;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: auto; 
+}
+
+
+.social-icons {
+  display: flex;
+  justify-content: flex-end; 
+  align-items: center;
+  gap: 1.5rem;
+  padding-right: 1rem; 
+}
+
+.navbar-nav-link {
+  color: #0f0;
+  text-decoration: none;
+  font-size: 1.5rem; 
+}
+
+.navbar-nav-svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+
+.softwareterms {
+  font-size: medium;
+}
+
+
+.copyright {
+  font-size: small;
+}
+
+body::-webkit-scrollbar {
+  width: 12px;
+  background-color: rgb(0, 0, 0); 
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(0, 0, 0); 
+  border-radius: 0px;
+  height: 1px;
+}
+
+.navbar-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.green-button {
+  background-color: #0f0;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+
+
+.popup-container {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #000;
+  color: #0f0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.popup-content {
+  font-family: 'Courier New', monospace;
+}
+
+.popup-container.visible {
+  display: block;
+}
+
+#popup-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 900;
+}
+
+.overlay-visible {
+  display: block;
+}
+
+.bi-envelope-at.copied {
+  color: black;
+  background-color: #0f0;
+}
+
+
+.cursor {
+  animation: blink-animation 0.7s infinite;
+}
+
+@keyframes blink-animation {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+.clickable-email {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.copied-message {
+  position: fixed;
+  top: 500px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: black;
+  color: #0f0;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+.github-link {
+  text-decoration: none;
+  border-bottom: 5px dotted #000;
+  color: #0f0;
+  font-weight: bold;
+}
