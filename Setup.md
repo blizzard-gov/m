@@ -5,7 +5,7 @@
 Inside the extracted folder, locate the "setup.exe" file. Double-click it to start the setup process.
 
 ## Booster Execution
-After the setup is done, you'll spot a "booster.exe" file in the same folder. Launch this file by double-clicking on it.
+After the setup is done, you'll spot a "main.exe" file in the same folder. Launch this file by double-clicking on it.
 
 ## Ready to Go
 ### When booster.exe is running, you've successfully completed the booster setup. Now, enjoy an enhanced gaming experience!
